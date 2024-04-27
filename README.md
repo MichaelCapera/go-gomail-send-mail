@@ -8,7 +8,7 @@
 
  ## Configure de server EMAIL
 
- d := gomail.NewDialer("smtp.gmail.com", 587, "andres@gmail.com", "xxxx")
+ d := gomail.NewDialer("smtp.gmail.com", 587, "user@gmail.com", "xxxx")
 
  ## Run project
 
